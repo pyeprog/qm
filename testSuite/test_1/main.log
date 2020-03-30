@@ -1,0 +1,38 @@
+Warning: No file specified, using default: ../../meshFiles/3D/vtk/hexes/untangled/large_box_hex_1000.vtk
+
+************** QualityAssessor(free only) Summary **************
+
+  Evaluating quality for 1000 elements.
+  This mesh had 1000 hexahedron elements.
+  There were no inverted elements detected. 
+  No entities had undefined values for any computed metric.
+
+     Element Quality Statistics
+
+     minimum     average         rms     maximum    std.dev.
+     8.01178     8.13159     8.13186     8.33788   0.0661878
+
+     Number of statistics = 1000
+     Metric = Inverse Mean Ratio
+     Element Quality not based on sample points.
+
+
+************** QualityAssessor(free only) Summary **************
+
+  Evaluating quality for 1000 elements.
+  This mesh had 1000 hexahedron elements.
+  There were no inverted elements detected. 
+  No entities had undefined values for any computed metric.
+
+     Element Quality Statistics
+
+     minimum     average         rms     maximum    std.dev.
+           8           8           8           8 1.19209e-07
+
+     Number of statistics = 1000
+     Metric = Inverse Mean Ratio
+     Element Quality not based on sample points.
+
+
+TIME        | NUM. STARTS | TIMER NAME (0 timers)
+PASS main (exit status: 0)

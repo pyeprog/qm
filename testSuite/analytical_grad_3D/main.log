@@ -1,0 +1,55 @@
+
+************** QualityAssessor(free only) Summary **************
+
+  Evaluating quality for 16 elements.
+  This mesh had 16 hexahedron elements.
+  There were no inverted elements detected. 
+  No entities had undefined values for any computed metric.
+
+     Element Quality Statistics
+
+     minimum     average         rms     maximum    std.dev.
+     1.00394     1.01984     1.01999     1.04547   0.0169641
+
+     Number of statistics = 16
+     Metric = Condition Number
+     Element Quality not based on sample points.
+
+    -------------------------------------------
+     Element Quality Statistics
+
+     minimum     average         rms     maximum    std.dev.
+     1.00403     1.01906     1.01918     1.04145   0.0155331
+
+     Number of statistics = 16
+     Metric = Inverse Mean Ratio
+     Element Quality not based on sample points.
+
+
+************** QualityAssessor(free only) Summary **************
+
+  Evaluating quality for 16 elements.
+  This mesh had 16 hexahedron elements.
+  There were no inverted elements detected. 
+  No entities had undefined values for any computed metric.
+
+     Element Quality Statistics
+
+     minimum     average         rms     maximum    std.dev.
+     1.00002     1.00115     1.00115     1.00248  0.00099936
+
+     Number of statistics = 16
+     Metric = Condition Number
+     Element Quality not based on sample points.
+
+    -------------------------------------------
+     Element Quality Statistics
+
+     minimum     average         rms     maximum    std.dev.
+     1.00002     1.00114     1.00114     1.00243 0.000984747
+
+     Number of statistics = 16
+     Metric = Inverse Mean Ratio
+     Element Quality not based on sample points.
+
+PASS main (exit status: 0)

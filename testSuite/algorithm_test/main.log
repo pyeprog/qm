@@ -1,0 +1,37 @@
+
+************** QualityAssessor(free only) Summary **************
+
+  Evaluating quality for 10920 free elements of 11098 total elements.
+  This mesh had 11098 tetrahedron elements.
+  There were no inverted elements detected. 
+  No entities had undefined values for any computed metric.
+
+     Element Quality Statistics
+
+     minimum     average         rms     maximum    std.dev.
+     1.00156     1.29802     1.35286     22.6413    0.381278
+
+     Number of statistics = 10920
+     Metric = Inverse Mean Ratio
+     Element Quality not based on sample points.
+
+
+************** QualityAssessor(free only) Summary **************
+
+  Evaluating quality for 10920 free elements of 11098 total elements.
+  This mesh had 11098 tetrahedron elements.
+  There were no inverted elements detected. 
+  No entities had undefined values for any computed metric.
+
+     Element Quality Statistics
+
+     minimum     average         rms     maximum    std.dev.
+     1.00385     1.25743      1.2902     16.3248    0.288935
+
+     Number of statistics = 10920
+     Metric = Inverse Mean Ratio
+     Element Quality not based on sample points.
+
+
+TIME        | NUM. STARTS | TIMER NAME (0 timers)
+PASS main (exit status: 0)

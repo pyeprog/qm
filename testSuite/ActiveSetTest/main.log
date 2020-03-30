@@ -1,0 +1,36 @@
+Loading mesh set 1
+
+************** QualityAssessor(free only) Summary **************
+
+  Evaluating quality for 10920 free elements of 11098 total elements.
+  This mesh had 11098 tetrahedron elements.
+  There were no inverted elements detected. 
+  No entities had undefined values for any computed metric.
+
+     Element Quality Statistics
+
+     minimum     average         rms     maximum    std.dev.
+     1.00155      1.3342      1.6868     85.0041     1.03208
+
+     Number of statistics = 10920
+     Metric = Condition Number
+     Element Quality not based on sample points.
+
+
+************** QualityAssessor(free only) Summary **************
+
+  Evaluating quality for 10920 free elements of 11098 total elements.
+  This mesh had 11098 tetrahedron elements.
+  There were no inverted elements detected. 
+  No entities had undefined values for any computed metric.
+
+     Element Quality Statistics
+
+     minimum     average         rms     maximum    std.dev.
+     1.00513     1.35113     1.37611     6.95876       0.261
+
+     Number of statistics = 10920
+     Metric = Condition Number
+     Element Quality not based on sample points.
+
+PASS main (exit status: 0)
